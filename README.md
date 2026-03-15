@@ -1,1 +1,1 @@
-# cs-ai-2025-BakaChanturia
+# cs-ai-2026-BakaChanturia
