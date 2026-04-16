@@ -15,14 +15,19 @@ The goal is to demonstrate how AI systems can generate, process, and evaluate au
 ## Project Structure
 
 ```
-hw2/
+hw02/
+├── audio-output/
+│   ├── voice_kore_sample.mp3
+│   ├── voice_kore_sample.wav
+│   ├── voice_puck_sample.mp3
+│   └── voice_puck_sample.wav
+├── .env.example
+├── .gitignore
+├── README.md
+├── audio-cost-log.jsonl
 ├── hw2-audio-pipeline.py
 ├── reflection.md
 ├── requirements.txt
-├── .env.example
-├── audio-output/
-│   ├── voice_kore_sample.mp3
-│   └── voice_puck_sample.mp3
 └── README.md
 ```
 
